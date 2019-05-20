@@ -2,6 +2,7 @@
 def speak_to_grandma(phrase)
 
   if phase == "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
   elseif phrase == " "#notuppoercase(phrase)
     "HUH?! Speak Up, Sonny!"
   else
